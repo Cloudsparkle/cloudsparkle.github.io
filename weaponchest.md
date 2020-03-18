@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Weapon weaponchest
+title: Weapon chest
 subtitle: My weapons of choice
 ---
 
