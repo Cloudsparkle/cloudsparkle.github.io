@@ -2,7 +2,7 @@
 layout: post
 title: "Toolbox #004: GetIISLogEndpoints"
 tag: [PowerShell, Toolbox]
-published: false
+published: True
 ---
 Synopsis: A PowerShell script retrieve all unique endpoints out of IIS Logs
 
