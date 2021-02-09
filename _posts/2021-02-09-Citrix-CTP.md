@@ -3,7 +3,7 @@ layout: post
 title: 2021... Here I come!
 image: /img/CTP-Color-2x.png
 tag: [Blog]
-published: false
+published: true
 ---
 
 Let's take a trip down memory lane first.  
